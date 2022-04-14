@@ -20,7 +20,8 @@
   "homepage": "https://github.com/CameronRuch/node-api4-project#readme",
   "devDependencies": {
     "eslint": "^8.13.0",
-    "eslint-plugin-react": "^7.29.4"
+    "eslint-plugin-react": "^7.29.4",
+    "nodemon": "^2.0.15"
   },
   "dependencies": {
     "cors": "^2.8.5",
